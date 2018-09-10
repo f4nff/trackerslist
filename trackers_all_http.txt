@@ -36,3 +36,4 @@ http://omg.wtftrackr.pw:1337/announce
 
 http://mgtracker.org:6969/announce
 
+http://open.trackerlist.xyz:80/announce
